@@ -1,0 +1,12 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Severus Snape', '20020220345', 3500.0, TIMESTAMP WITH TIME ZONE '1968-07-13T00:00:00Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Harry Potter', '20120220346', 4500.0, TIMESTAMP WITH TIME ZONE '1990-06-13T10:00:00Z',2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Hermione Granger', '20220220300', 4950.0, TIMESTAMP WITH TIME ZONE '1990-05-13T10:10:00Z',2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Black Sirius', '20320220316', 2800.0, TIMESTAMP WITH TIME ZONE '1967-11-13T10:00:00Z',1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ronald Wesley', '20420220326', 4000.0, TIMESTAMP WITH TIME ZONE '1989-12-13T10:00:00Z',3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Albus Dumbledore', '20520220336', 9000.0, TIMESTAMP WITH TIME ZONE '1940-01-13T10:00:00Z',5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Tom Riddle', '20620220346', 8900.0, TIMESTAMP WITH TIME ZONE '1960-08-13T10:00:00Z',4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luna Lovegood', '20720220356', 4500.0, TIMESTAMP WITH TIME ZONE '1990-04-13T10:00:00Z',3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Alastor Moody', '20820220366', 8000.0, TIMESTAMP WITH TIME ZONE '1955-07-13T10:00:00Z',5);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Hubeos Hagrid', '20920220376', 5500.0, TIMESTAMP WITH TIME ZONE '1961-09-13T10:00:00Z',2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Bartolomeu Crouch', '21020220386', 7500.0, TIMESTAMP WITH TIME ZONE '1954-07-13T10:00:00Z',1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jane Doe', '21120220396', 6500.0, TIMESTAMP WITH TIME ZONE '1988-01-20T10:00:00Z',4);
